@@ -1,0 +1,25 @@
+.main-footer {
+    color: #d5d6da;
+    background-color: #2d3246;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+#footer-socials a {
+    display: inline-block;
+    border-radius: 50px;
+    margin-right: 20px;
+    margin-bottom: 8px;
+    color: d5d6da;
+    border: 0;
+  }
+  #footer-socials a:hover,
+  #footer-socials a:focus {
+    color: blue;
+    border: 0;
+  }
+  #footer-socials i {
+    font-size: 28px;
+    vertical-align: middle; 
+  } 
